@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="left"><a href="https://github.com/AhmadGhDev" >Hi 👋, I'm AhmadGhanem </a></h1>
+<h3 align="left">💻 A passionate frontend developer from Syria</h3>
 
-<!--
-**AhmadGhDev/AhmadGhDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h3 align="left">My Portfolio 👉 : <a href='https://ag-ahmadghanem.web.app'>Live Demo</a></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass,git,mysql,php">
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<br>
+<p align="left">
+<a href="https://linkedin.com/in/ahmad-ghanem-2b4620280"target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ahmad-ghanem-2b4620280"/></a>
+</p>
